@@ -6,7 +6,7 @@ This is the top level of the my documentation tree.
 .. toctree::
    :maxdepth: 2
 
-android-riscv documentation
+Android RISV-V documentation
 ---------------------------
 
 .. toctree::
@@ -16,7 +16,7 @@ android-riscv documentation
    learn/index
    usage/index
 
-Reverse engineering documentation
+Reverse Engineering documentation
 --------------------------------
 
 .. toctree::
