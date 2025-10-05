@@ -1,25 +1,18 @@
 The Documentation
-========================
+=================
 
-This is the top level of the my documentation tree.  
-
-.. toctree::
-   :maxdepth: 2
-
-Android RISV-V documentation
----------------------------
+This is the top level of my documentation tree.
 
 .. toctree::
    :maxdepth: 2
+   :caption: Android RISC-V documentation
 
    build/index
    learn/index
    usage/index
 
-Reverse Engineering documentation
---------------------------------
-
 .. toctree::
    :maxdepth: 2
+   :caption: Reverse Engineering documentation
 
    develop/index
