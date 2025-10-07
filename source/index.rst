@@ -1,10 +1,10 @@
 The Documentation
 =================
 .. toctree::
-   :maxdepth: 2
    :caption: Android RISC-V
-
-   android/index
+   android/hardware
+   android/build
+   android/flash
 
 .. toctree::
    :maxdepth: 2

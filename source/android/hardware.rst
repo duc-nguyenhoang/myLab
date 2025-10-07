@@ -20,6 +20,3 @@ Make sure you have prepared the following hardware items:
    :alt: VisionFive 2 Board
    :align: left
    :width: 300px
-==============================
-Flashing OS to a Micro-SD Card
-==============================
