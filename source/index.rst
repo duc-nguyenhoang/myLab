@@ -10,4 +10,5 @@ The Documentation
 .. toctree::
    :caption: Reverse Engineering
 
-   reverse/index
+   reverse/android
+   reverse/binary
