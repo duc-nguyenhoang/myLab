@@ -2,6 +2,7 @@ The Documentation
 =================
 .. toctree::
    :caption: Android RISC-V
+   :maxdepth: 2   
 
    android/hardware
    android/build
@@ -9,6 +10,7 @@ The Documentation
 
 .. toctree::
    :caption: Reverse Engineering
+   :maxdepth: 2
 
    reverse/android
    reverse/binary
